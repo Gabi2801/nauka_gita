@@ -1,0 +1,3 @@
+#Nauka gita
+git
+git ...
