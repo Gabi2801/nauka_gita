@@ -1,4 +1,4 @@
-#Nauka gita
+# Nauka gita
 
 git
 git ...
