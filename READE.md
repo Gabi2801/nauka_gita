@@ -4,5 +4,5 @@ git
 git ...
 xxxxx
 
-![GitHub logo]
-(https://octodex.github.com/images/puddle_jumper_octodex.jpg)
+
+![Image of Yaktocat](https://octodex.github.com/images/puddle_jumper_octodex.jpg)
